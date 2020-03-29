@@ -1,5 +1,6 @@
 
-Level set based incompressible two-phase Navier-Stokes solver
+Level set based incompressible two-phase Navier-Stokes solver using MATLAB
+Code is vectorized for speed.
 
 Numerics: * Colocated Cartesian mesh in a square domain
           * Projection method for velocity-pressure coupling
